@@ -6,7 +6,9 @@ The cube stays fixed in the scene while the camera can move freely with keyboard
 
 ## Demo
 
-YouTube: https://youtu.be/V_3aXiOl_Qo
+[![Movie Cube C++ OpenGL Videos demo](https://img.youtube.com/vi/V_3aXiOl_Qo/maxresdefault.jpg)](https://youtu.be/V_3aXiOl_Qo)
+
+[Watch the demo on YouTube](https://youtu.be/V_3aXiOl_Qo)
 
 ## Features
 
