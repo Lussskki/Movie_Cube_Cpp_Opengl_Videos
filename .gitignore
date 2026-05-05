@@ -1,0 +1,6 @@
+MovieCube.exe
+*.o
+*.obj
+*.pdb
+*.ilk
+*.log

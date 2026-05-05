@@ -1,0 +1,22 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "cpp-starter-cli build",
+      "type": "shell",
+      "command": "cpp-starter-cli build",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": "$gcc"
+    },
+    {
+      "label": "cpp-starter-cli run",
+      "type": "shell",
+      "command": "cpp-starter-cli run",
+      "dependsOn": "cpp-starter-cli build",
+      "problemMatcher": []
+    }
+  ]
+}
