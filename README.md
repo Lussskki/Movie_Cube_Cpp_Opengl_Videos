@@ -1,6 +1,6 @@
 # Movie Cube C++ OpenGL Videos
 
-Movie Cube is a small C++ OpenGL project that renders a 3D cube with video frames playing on its faces. The scene uses GLFW, GLEW, and GLM, and it is configured to build through `cpp-starter-cli`.
+Movie Cube is a small C++ OpenGL project that renders a 3D cube with video frames playing on its faces. The scene uses GLFW, GLEW, and GLM, and it is configured to build through `cpp-starter-cli`, my CLI project: https://github.com/Lussskki/Node.js-Javascript-Cpp-CLI.
 
 The cube stays fixed in the scene while the camera can move freely with keyboard and mouse controls. Video frames are loaded from `.ppm` image sequences, and audio is played from the original `.mp4` file through `ffplay`.
 
